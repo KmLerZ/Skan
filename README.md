@@ -1,5 +1,5 @@
 # Skan
-A little port scanner write in Rust
+A little port scanner write in Rust 🦀
 
 ## Usage 
 Use `cargo build` to add all crates
