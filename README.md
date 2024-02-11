@@ -13,3 +13,5 @@ Generate documentation `cargo doc --open`
 
 ## Example 
 Example of usage: `cargo run -- -s 127.0.0.1 -p 19-24 -t 1 -o output.json`
+
+Read the help with `-h` to see all the options and how to use them.
