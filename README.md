@@ -8,5 +8,9 @@ Use `cargo run -- -<Options>`
 
 Show help with `cargo run -- -h`
 
+Generate documentation `cargo doc --open`
 
+----
+
+## Example 
 Example of usage: `cargo run -- -s 127.0.0.1 -p 19-24 -t 1 -o output.json`
